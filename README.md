@@ -21,5 +21,3 @@
   - Provides real‑time visibility into blood availability.  
   - Enhances patient safety by ensuring accurate donor‑recipient matching.  
   - Demonstrates practical application of database management and system design skills.
-
-Would you like me to also create a **short presentation‑style abstract** (2–3 slides worth of text) so you can directly use it in your PPT for showcasing?
