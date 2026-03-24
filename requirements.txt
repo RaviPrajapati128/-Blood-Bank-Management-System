@@ -1,8 +1,6 @@
-mysql-connector-python
 pandas 
-sqlalchemy 
 streamlit 
 random
-datetime
-re
+datetime 
 sqlite3
+
