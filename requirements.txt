@@ -1,5 +1,8 @@
-streamlit
-sqlalchemy
-sqlite3-binary
-mysql-connector-python
-pandas
+mysql.connector
+pandas 
+sqlalchemy 
+streamlit 
+random
+datetime
+re
+sqlite3
