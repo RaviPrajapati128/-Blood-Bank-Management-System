@@ -1,5 +1,3 @@
-pandas 
-streamlit 
-datetime 
-
-
+pandas
+streamlit
+sqlite3-binary
