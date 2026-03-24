@@ -1,4 +1,5 @@
 streamlit
+sqlalchemy
+sqlite3-binary
 mysql-connector-python
 pandas
-numpy
